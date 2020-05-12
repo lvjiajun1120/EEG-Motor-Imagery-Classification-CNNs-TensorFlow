@@ -13,11 +13,15 @@ NOTICE: The method in our paper is EEG source imaging (ESI) + Morlet wavelet joi
 
 Meanwhile, the codes in this repository are based on the raw EEG data without the ESI and JTFA process and also achieve a good result. The main CNNs Tensorflow framework codes in the "MI_Proposed_CNNs_Architecture.py" are the same for both of the work.
 
+---
+
 <div>
     <div style="text-align:center">
     <img width=99%device-width src="https://github.com/SuperBruceJia/SuperBruceJia.github.io/raw/master/imgs/Picture2.png" alt="Project2">
 </div>
-    
+
+---
+
 ### Installation and Usage
 
 #### 1. Python file: PhysioNet_MI_Dataset/MIND_Get_EDF.py
