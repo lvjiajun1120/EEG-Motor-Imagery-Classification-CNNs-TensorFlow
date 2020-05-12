@@ -15,21 +15,21 @@ Meanwhile, the codes in this repository are based on the raw EEG data without th
 
 ### Installation and Usage
 
-### 1. Python file: PhysioNet_MI_Dataset/MIND_Get_EDF.py
+#### 1. Python file: PhysioNet_MI_Dataset/MIND_Get_EDF.py
 
 --- download all the EEG Motor Movement/Imagery Dataset .edf files from [here](https://archive.physionet.org/pn4/eegmmidb/)!
 
-### 2. Python file: Read_Raw_Data_Save_Into_Matlab_Files.py
+#### 2. Python file: Read_Raw_Data_Save_Into_Matlab_Files.py
 
 --- Read the edf Raw data of different channels and save them into matlab .m files
 
 --- At this stage, the Python file must be processed under a Python 2 environment (I recommend to use Python 2.7 version).
 
-### 3. Matlab file: Saved_Matlab_Data/Preprocessing_Raw_Data.m
+#### 3. Matlab file: Saved_Matlab_Data/Preprocessing_Raw_Data.m
 
 --- Pre-process the dataset (Data Normalization mainly) and save matlab .m files into Excel .xlsx Files
 
-### 4. Python file: MI_Proposed_CNNs_Architecture.py
+#### 4. Python file: MI_Proposed_CNNs_Architecture.py
 
 --- the proposed CNNs architecture 
 
