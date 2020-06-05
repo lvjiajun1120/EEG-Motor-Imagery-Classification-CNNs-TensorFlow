@@ -2,7 +2,7 @@
 
 EEG Motor Imagery Tasks Classification (by Channels) via Convolutional Neural Networks (CNN) 
 
-Author: Shuyue Jia
+Author: Shuyue Jia @ Human Sensor Laboratory, School of Automation Engineering, Northeast Electric Power University.
 
 Date: December of 2018
 
